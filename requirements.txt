@@ -1,0 +1,17 @@
+setuptools
+pre-commit
+black
+flake8
+isort
+interrogate
+
+KekikTaban
+Pyrogram
+TgCrypto
+pytgcalls
+aiohttp
+aiofiles
+Pillow
+ffmpeg-python
+youtube-search-python
+youtube_dl
