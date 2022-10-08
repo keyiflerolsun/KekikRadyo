@@ -1,0 +1,13 @@
+setuptools
+wheel
+Kekik
+Pyrogram
+TgCrypto
+pytgcalls==3.0.0.dev22
+aiohttp
+aiofiles
+Pillow
+ffmpeg-python
+youtube-search-python
+yt-dlp
+pafy
